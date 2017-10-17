@@ -106,7 +106,4 @@ ENV/
 
 venv
 *.pyc
-staticfiles
 .env
-
-staticfiles/*
